@@ -46,8 +46,6 @@ Most common cuisine categories across Bangalore restaurants, filtered to the top
 **Top Rated Restaurants (Table)**
 Restaurants filtered to 100+ votes (to exclude unreliable low-sample ratings), sorted by rating descending, with red-to-green conditional formatting on the Rating column.
 
-
-
 ## 🔍 Key Insights
 
 - Average restaurant rating across Bangalore sits at 3.63/5 — genuinely excellent (4.5+) restaurants are a small minority.
@@ -76,4 +74,3 @@ Dataset: [Zomato Bangalore Restaurants](https://www.kaggle.com/datasets) (Kaggle
 ---
 
 *Note: This analysis covers Bangalore restaurants specifically, not a global multi-country dataset.*
-
